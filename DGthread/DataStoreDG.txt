@@ -1,0 +1,1 @@
+goblin:75:15,IRS:100:20,Bandit:50:20,skeleton:10:30=/500-500:1:1:1,500-475:2:2:2/jerry.100.sword:1:5,shield:2:5/504,481/GoodWeapon:1:20,Mace:1:18
